@@ -1,1 +1,1 @@
-﻿# bootstrap-proj-sept
+﻿# bootstrap project
